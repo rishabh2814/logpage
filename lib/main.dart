@@ -74,7 +74,7 @@ class _LoginPageState extends State<LoginPage> with SingleTickerProviderStateMix
                       children: <Widget>[
                         new TextFormField(
                           decoration: new InputDecoration(
-                            labelText: "Enter Email",
+                            labelText: "Enter email",
                           ),
                           keyboardType: TextInputType.emailAddress,
                         ),
